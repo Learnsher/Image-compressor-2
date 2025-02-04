@@ -129,3 +129,8 @@ button:hover {
 .hidden {
     display: none;
 }
+
+.drop-zone.dragging {
+    border-color: #007bff;
+    background-color: #e0f7ff;
+}
